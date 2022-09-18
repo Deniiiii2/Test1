@@ -7,4 +7,7 @@
 # Рекомендации
 Программа была разработана на языке Pyton 3.10 (интегрированная среда - PyCharm)
 # Скриншот выполнения программы для чисел 128,1003,256501
-(https://sun9-west.userapi.com/sun9-66/s/v1/ig2/oSadbNs64YQgAtAOgbYAV7P27_nnvdCQTDVQV07QLVmXrZoHCdXuY_PQCtqSN0hYLaiD05Rdo2enHAd-Ys2LNzgU.jpg?size=1920x1080&quality=96&type=album)
+![1](https://user-images.githubusercontent.com/113837843/190912532-96888e7d-9f19-4845-8d41-7fc7e26e0503.jpg)
+![image](https://user-images.githubusercontent.com/113837843/190912552-dbf52b18-031d-4070-b421-d831dd890f24.png)
+![image](https://user-images.githubusercontent.com/113837843/190912564-d7de672f-6aba-4e89-8753-5c6cfdadc741.png)
+
